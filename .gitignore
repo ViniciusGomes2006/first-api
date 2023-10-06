@@ -7,6 +7,7 @@
 # Diretórios de dependências
 node_modules/
 vendor/
+.vscode/
 
 # Diretórios de build ou compilação
 dist/
